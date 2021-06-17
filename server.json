@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/Brooklyn-Nine-Nine.jpg",
+      "name": "Cheddar",
+      "price": "12.00",
+      "description": "Não gosto",
+      "available": true,
+      "id": 4
     }
   ]
 }
